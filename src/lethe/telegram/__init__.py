@@ -53,7 +53,7 @@ class TelegramBot:
                 return
 
             await message.answer(
-                "Hello! I'm Lethe, your autonomous assistant.\n\n"
+                "Hello. I'm Faith, your autonomous assistant.\n\n"
                 "Send me any message and I'll help you.\n\n"
                 "Commands:\n"
                 "/status - Check status\n"
